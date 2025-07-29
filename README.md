@@ -70,4 +70,16 @@ This project is inspired by and built based on:
 ---
 
 ## 📂 Directory Structure
+├── WebScraping.ipynb # Main scraper notebook
+├── posts/ # Folder containing saved job text files (create it before running the notebook)
+└── README.md # Project documentation
+
+
+---
+
+## 📬 Feedback and Contributions
+
+Pull requests and suggestions are welcome! Feel free to fork this repo and improve upon it. If you encounter issues or bugs, kindly open an issue.
+
+---
 
